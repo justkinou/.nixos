@@ -69,6 +69,10 @@
      alacritty
      kdePackages.dolphin
      hyprlauncher
+     hyprpaper
+     hypridle
+     brightnessctl
+     waybar
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
